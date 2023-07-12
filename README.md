@@ -1,7 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Eren! 
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+- <b> CS50’s Introduction to Programming with Python </b>
+
+<h2> 🤳 Connect with me:</h2>
 
 <!--
-**eren037/eren037** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
